@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Pediduchos</string>
+    <string name="editarpedido_pedidos">Pedido:</string>
+    <string name="editarpedido_mesa">Nº Mesa:</string>
+    <string name="editarpedido_nomecliente">Cliente:</string>
+    <string name="editarpedido_criarpedido">Criar novo pedido</string>
+    <string name="editarpedido_editar">Editar pedido</string>
+    <string name="pediduchosmain_criarnovopedido">Criar novo pedido</string>
+    <string name="list_layout_numero">Número:</string>
+    <string name="list_layout_mesa">Mesa:</string>
+    <string name="list_layout_pedido">Pedido:</string>
+    <string name="list_layout_cliente">Cliente:</string>
+    <string name="list_layout_data">Data:</string>
+    <string name="title_activity_login">Iniciar Sessão</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="pedidodetalhes_pedido">Pedido:  </string>
+    <string name="pedidodetalhes_cliente">Nome do Cliente:  </string>
+    <string name="pedidodetalhes_data">Data:  </string>
+    <string name="pedidodetalhes_mesa">Número da mesa:</string>
+    <string name="pedidodetalhes_titulo">Detalhes do pedido #</string>
+    <string name="list_layout_buttondetalhes">Detalhes</string>
+    <string name="title_activity_asd">asd</string>
+    <string name="loginRemember">Guardar sessão</string>
+    <string name="title_activity_exxxx">exxxx</string>
+    <string name="title_activity_asdasda">asdasda</string>
+    <string name="pedidodetalhes_empregado">Nome do Empregado:</string>
+    <string name="pedidetalhes_fechado">Pedido fechado?</string>
+    <string name="pedidodetalhes_buttonfechar">Fechar pedido</string>
+    <string name="pedidodetalhes_buttoneditar">Editar pedido</string>
+    <string name="list_layout_fechado">Pedido fechado?</string>
+    <string name="pedidodetalhes_conta">Valor a pagar:</string>
+    <string name="editarpedido_hint">Clique num produto para o remover</string>
+    <string name="title_activity_admin_panel">AdminPanel</string>
+    <string name="produtocriar_nome">Nome:</string>
+    <string name="produtocriar_preco">Preço:</string>
+    <string name="produtocriar_button">Adicionar produto</string>
+    <string name="produtocriar_title">Adicionar novo produto</string>
+    <string name="produtocriar_title2">Editar produto</string>
+    <string name="listprodutos_layout_nome">Nome:</string>
+    <string name="listprodutos_layout_preco">Preço:</string>
+    <string name="admin_title">Painel de Administração</string>
+    <string name="produtocriar_buttonEliminar">Eliminar produto</string>
+</resources>
